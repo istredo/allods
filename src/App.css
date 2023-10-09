@@ -270,6 +270,8 @@ section:after {
 	line-height: 19px;
 	text-transform: uppercase;
 
+	cursor: pointer;
+
 	width: 180px;
 	height: 40px;
 
