@@ -14,7 +14,7 @@ section {
 	position: relative;
 	overflow: hidden;
 }
-section:after {
+.container__top:after {
 	content: url(./img/frame_1/bg_glow.png);
 	position: absolute;
 	display: flex;
