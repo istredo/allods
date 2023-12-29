@@ -222,7 +222,7 @@ section {
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 14px;
-
+	width: 100%;
 	color: #671d00;
 
 	display: flex;
